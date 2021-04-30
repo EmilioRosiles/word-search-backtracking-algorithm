@@ -1,0 +1,13 @@
+array
+newengland
+integer
+patriots
+boston
+else
+celtics
+for
+if
+redsox
+variable
+boolean
+while

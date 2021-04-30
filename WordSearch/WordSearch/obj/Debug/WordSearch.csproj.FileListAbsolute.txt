@@ -1,0 +1,84 @@
+C:\Users\FSW\source\repos\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\FSW\source\repos\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\FSW\source\repos\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\FSW\source\repos\WordSearch\WordSearch\obj\Debug\WordSearch.csprojAssemblyReference.cache
+C:\Users\FSW\source\repos\WordSearch\WordSearch\obj\Debug\WordSearch.Form1.resources
+C:\Users\FSW\source\repos\WordSearch\WordSearch\obj\Debug\WordSearch.Properties.Resources.resources
+C:\Users\FSW\source\repos\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.GenerateResource.cache
+C:\Users\FSW\source\repos\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\FSW\source\repos\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\FSW\source\repos\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
+C:\Users\FSW\Desktop\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\FSW\Desktop\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\FSW\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.csprojAssemblyReference.cache
+C:\Users\FSW\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.Form1.resources
+C:\Users\FSW\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.Properties.Resources.resources
+C:\Users\FSW\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.GenerateResource.cache
+C:\Users\FSW\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\FSW\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\FSW\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
+C:\Users\FSW\Desktop\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\emili\Desktop\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\emili\Desktop\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\emili\Desktop\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\emili\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.csprojAssemblyReference.cache
+C:\Users\emili\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.Form1.resources
+C:\Users\emili\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.Properties.Resources.resources
+C:\Users\emili\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.GenerateResource.cache
+C:\Users\emili\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\emili\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\emili\Desktop\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
+C:\Users\FSW\Desktop\WordSearch\WordSearch\WordSearch\obj\Debug\WordSearch.csprojAssemblyReference.cache
+C:\Users\FSW\Desktop\WordSearch\WordSearch\WordSearch\obj\Debug\WordSearch.Form1.resources
+C:\Users\FSW\Desktop\WordSearch\WordSearch\WordSearch\obj\Debug\WordSearch.Properties.Resources.resources
+C:\Users\FSW\Desktop\WordSearch\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.GenerateResource.cache
+C:\Users\FSW\Desktop\WordSearch\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\FSW\Desktop\WordSearch\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\FSW\Desktop\WordSearch\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
+C:\Users\FSW\Desktop\WordSearch\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\FSW\Desktop\WordSearch\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\FSW\Desktop\WordSearch\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\emili\Desktop\WordSearch new\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\emili\Desktop\WordSearch new\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\emili\Desktop\WordSearch new\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\emili\Desktop\WordSearch new\WordSearch\WordSearch\obj\Debug\WordSearch.csprojAssemblyReference.cache
+C:\Users\emili\Desktop\WordSearch new\WordSearch\WordSearch\obj\Debug\WordSearch.Form1.resources
+C:\Users\emili\Desktop\WordSearch new\WordSearch\WordSearch\obj\Debug\WordSearch.Properties.Resources.resources
+C:\Users\emili\Desktop\WordSearch new\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.GenerateResource.cache
+C:\Users\emili\Desktop\WordSearch new\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\emili\Desktop\WordSearch new\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\emili\Desktop\WordSearch new\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
+C:\Users\emili\Desktop\WordSearch new\WordSearch\WordSearch\obj\Debug\WordSearch.Form2.resources
+C:\Users\emili\Desktop\semester 3\C#\WordSearch EmilioRosiles\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\emili\Desktop\semester 3\C#\WordSearch EmilioRosiles\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\emili\Desktop\semester 3\C#\WordSearch EmilioRosiles\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\emili\Desktop\semester 3\C#\WordSearch EmilioRosiles\WordSearch\WordSearch\obj\Debug\WordSearch.csprojAssemblyReference.cache
+C:\Users\emili\Desktop\semester 3\C#\WordSearch EmilioRosiles\WordSearch\WordSearch\obj\Debug\WordSearch.Form1.resources
+C:\Users\emili\Desktop\semester 3\C#\WordSearch EmilioRosiles\WordSearch\WordSearch\obj\Debug\WordSearch.Form2.resources
+C:\Users\emili\Desktop\semester 3\C#\WordSearch EmilioRosiles\WordSearch\WordSearch\obj\Debug\WordSearch.Properties.Resources.resources
+C:\Users\emili\Desktop\semester 3\C#\WordSearch EmilioRosiles\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.GenerateResource.cache
+C:\Users\emili\Desktop\semester 3\C#\WordSearch EmilioRosiles\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\emili\Desktop\semester 3\C#\WordSearch EmilioRosiles\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\emili\Desktop\semester 3\C#\WordSearch EmilioRosiles\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
+C:\Users\FSW\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\FSW\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\FSW\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\FSW\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.csprojAssemblyReference.cache
+C:\Users\FSW\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.Form1.resources
+C:\Users\FSW\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.Form2.resources
+C:\Users\FSW\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.Properties.Resources.resources
+C:\Users\FSW\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.GenerateResource.cache
+C:\Users\FSW\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\FSW\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\FSW\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
+C:\Users\emili\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\emili\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\emili\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\emili\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.csprojAssemblyReference.cache
+C:\Users\emili\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.Form1.resources
+C:\Users\emili\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.Form2.resources
+C:\Users\emili\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.Properties.Resources.resources
+C:\Users\emili\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.GenerateResource.cache
+C:\Users\emili\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\emili\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\emili\Desktop\WordSearch EmilioRosiles NEW\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
